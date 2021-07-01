@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+
+    <string name="login">Login</string>
+    <string name="enter_your_pass">Enter your password</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="t_and_c">I agree terms and conditions</string>
+</resources>
